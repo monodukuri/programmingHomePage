@@ -27,6 +27,16 @@
     display: none;/*----*/
 }
 
+/*Twitter埋め込み*/
+.twitter {
+    text-align: center;
+}
+
+.twitter-timeline {
+    
+}
+
+
 /*活動記録のところ*/
 #section-main {
     background-color: white;
